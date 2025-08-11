@@ -1,4 +1,4 @@
-# Just an image of an apple with Tkinter and Pillow
+# Just an image of an apple 
 
 A simple Python project that uses **Tkinter** and **Pillow** to display an image (`Apple.png`) in a GUI window.
 
